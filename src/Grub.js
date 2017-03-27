@@ -7,6 +7,6 @@ var Grub = function() {
 };
 
 
-Grub.prototype.eat = function(){
+Grub.prototype.eat = function() {
 
 };
